@@ -1,4 +1,8 @@
 java30days
 ==========
 
-java30days
+* effective java
+
+* junit 3
+
+
