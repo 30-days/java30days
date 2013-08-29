@@ -31,8 +31,8 @@
  *  		
  */
 
-package com.thirtydays.efjava;
+package com.efjava.item1;
 
-public class Item1StaticFactoryMethod {
+public class README {
 
 }
