@@ -23,3 +23,5 @@
 package com.thirtydays.efjava;
 
 public class Item1StaticFactoryMethod {
+
+}
