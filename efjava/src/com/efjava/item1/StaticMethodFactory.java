@@ -28,11 +28,16 @@
  *  		public static <K, V> HashMap<K, V> newInstance() {
  *  			return new HashMap<K, V>();
  *  		}
+ * Disadvantages:
+ *  1. The main disadvantage of providing only static factory methods is that
+ *     classes without public or protected constructors cannot be subclassed.
+ *  2. A second disadvantage of static factory methods is that they are not
+ *     readily distinguishable from other static methods. 
  *  		
  */
 
 package com.efjava.item1;
 
-public class README {
+public class StaticMethodFactory {
 
 }
